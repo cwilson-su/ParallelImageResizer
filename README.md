@@ -13,7 +13,7 @@ Resized image:<br>
 <br>
 <br>
 
-Example Output 1
+Example Output 2
 <br>
 Original image:<br>
 <img src="/thumbnail/input_images/jussieu-atrium.jpg" width="512"/>
