@@ -19,5 +19,5 @@ Original image:<br>
 <img src="/thumbnail/input_images/jussieu-atrium.jpg" width="512"/>
 226.7 kB <br>
 Resized image:<br>
-<img src="/thumbnail/output_images/jussieu-atriume.jpg" width="512"/>
+<img src="/thumbnail/output_images/jussieu-atrium.jpg" width="512"/>
 29.1 kB <br>
