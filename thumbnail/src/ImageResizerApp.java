@@ -11,12 +11,8 @@ public class ImageResizerApp {
     public static void main(String[] args) {
     	
         // Hardcoded input and output folders
-    	//File inputFolder = new File("input_images");
-        //File outputFolder = new File("output_images");
-    	
-    	//                                   PUT YOUR CORRECT PATHS HERE ↓↓
-        File inputFolder = new File("/home/yeahc/git/JavaConcurrency-MiscellaneousPracticeExercises/src/thumbnail/input_images");
-        File outputFolder = new File("/home/yeahc/git/JavaConcurrency-MiscellaneousPracticeExercises/src/thumbnail/output_images");
+    	File inputFolder = new File("input_images");
+        File outputFolder = new File("output_images");
 
         // Ensure the output directory exists
         if (!outputFolder.exists()) {
